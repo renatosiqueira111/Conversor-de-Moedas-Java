@@ -11,7 +11,7 @@ public class Main {
         int opcaoEscolhidaMenu;
         double valorParaConversao;
         boolean maisConversoes = true;
-        String linkAPI = "https://v6.exchangerate-api.com/v6/5591271d08ebbd9db7062f74";
+        String linkAPI = "https://v6.exchangerate-api.com/v6/SUA_CHAVE_DE_AUTENTICACAO";
 
         while(maisConversoes) {
             conversor.msgInicial();
